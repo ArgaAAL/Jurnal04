@@ -1,0 +1,15 @@
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\bin\Debug\net8.0\jurnal04_1302223038.exe
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\bin\Debug\net8.0\jurnal04_1302223038.deps.json
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\bin\Debug\net8.0\jurnal04_1302223038.runtimeconfig.json
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\bin\Debug\net8.0\jurnal04_1302223038.dll
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\bin\Debug\net8.0\jurnal04_1302223038.pdb
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\jurnal04_1302223038.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\jurnal04_1302223038.AssemblyInfoInputs.cache
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\jurnal04_1302223038.AssemblyInfo.cs
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\jurnal04_1302223038.csproj.CoreCompileInputs.cache
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\jurnal04_1302223038.sourcelink.json
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\jurnal04_1302223038.dll
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\refint\jurnal04_1302223038.dll
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\jurnal04_1302223038.pdb
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\jurnal04_1302223038.genruntimeconfig.cache
+D:\Arag\jurnal04_1302223038\jurnal04_1302223038\obj\Debug\net8.0\ref\jurnal04_1302223038.dll
