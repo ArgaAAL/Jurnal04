@@ -24,6 +24,6 @@ class KodeBuah
 
     public string getKodeBuah(string buah)
     {
-        return data.ContainsKey(kelurahan) ? data[kelurahan] : "Kode pos tidak ditemukan";
+        return data.ContainsKey(buah) ? data[buah] : "Buah tidak ditemukan";
     }
 }
